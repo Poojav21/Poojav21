@@ -23,3 +23,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojav21&show_icons=true&locale=en" alt="poojav21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojav21&" alt="poojav21" /></p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Poojav21/Poojav21/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Poojav21/Poojav21/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->

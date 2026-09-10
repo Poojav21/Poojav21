@@ -29,9 +29,11 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Poojav21/Poojav21/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Poojav21/Poojav21/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Poojav21/Poojav21/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Poojav21/Poojav21/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

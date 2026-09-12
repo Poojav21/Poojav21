@@ -2,12 +2,12 @@ class Solution:
     def search(self, nums: List[int], target: int) -> bool:
         l = 0
         r = len(nums)-1
-        while l <= r:
+        while l < r:
             m = (l+r)//2
             if nums[m] == target:
                 return True
             elif nums[m] > nums[r]:
-                if nums[l] <= target < nums[m]:
+                if nums[l] <= target <= nums[m]:
                     r = m
                 else:
                     l = m+1

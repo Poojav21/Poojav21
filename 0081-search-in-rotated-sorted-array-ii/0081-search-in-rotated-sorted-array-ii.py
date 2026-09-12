@@ -6,19 +6,16 @@ class Solution:
             m = (l+r)//2
             if nums[m] == target:
                 return True
-            elif nums[l] == nums[m] == nums[r]:
-                r -= 1
-                l += 1
-                continue
-            elif nums[l] <= nums[m]:
+            elif nums[m] > nums[r]:
                 if nums[l] <= target < nums[m]:
-                    r = m-1
+                    r = m
                 else:
                     l = m+1
-            else:
+            elif nums[m] < nums[r]:
                 if nums[m] < target <= nums[r]:
                     l = m+1
                 else:
-                    r = m-1
-        return False
-        
+                    r = m
+            else:
+                r -=1
+        return nums[l] == target

@@ -49,8 +49,13 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Poojav21/Poojav21/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/Poojav21/Poojav21/tree/master/0836-rectangle-overlap) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Poojav21/Poojav21/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Poojav21/Poojav21/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

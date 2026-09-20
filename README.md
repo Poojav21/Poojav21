@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/Poojav21/Poojav21/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Poojav21/Poojav21/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Poojav21/Poojav21/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Poojav21/Poojav21/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poojav21/Poojav21/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Poojav21/Poojav21/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -72,4 +73,20 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojav21/Poojav21/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poojav21/Poojav21/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Poojav21/Poojav21/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/Poojav21/Poojav21/tree/master/0875-koko-eating-bananas) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Poojav21/Poojav21/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Poojav21/Poojav21/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/Poojav21/Poojav21/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Poojav21/Poojav21/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method
 |  |
 | ------- |

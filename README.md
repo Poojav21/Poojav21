@@ -41,6 +41,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Poojav21/Poojav21/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Poojav21/Poojav21/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Poojav21/Poojav21/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Poojav21/Poojav21/tree/master/1552-magnetic-force-between-two-balls) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Poojav21/Poojav21/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -56,6 +57,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Poojav21/Poojav21/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Poojav21/Poojav21/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Poojav21/Poojav21/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Poojav21/Poojav21/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Poojav21/Poojav21/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->

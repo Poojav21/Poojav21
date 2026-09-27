@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojav21/Poojav21/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Poojav21/Poojav21/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Poojav21/Poojav21/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Poojav21/Poojav21/tree/master/0410-split-array-largest-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Poojav21/Poojav21/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

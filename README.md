@@ -53,6 +53,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Poojav21/Poojav21/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poojav21/Poojav21/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Poojav21/Poojav21/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/Poojav21/Poojav21/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Poojav21/Poojav21/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Poojav21/Poojav21/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poojav21/Poojav21/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -128,4 +129,8 @@
 | [0020-valid-parentheses](https://github.com/Poojav21/Poojav21/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Poojav21/Poojav21/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojav21/Poojav21/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Poojav21/Poojav21/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

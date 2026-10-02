@@ -54,6 +54,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Poojav21/Poojav21/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Poojav21/Poojav21/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Poojav21/Poojav21/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Poojav21/Poojav21/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Poojav21/Poojav21/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Poojav21/Poojav21/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Poojav21/Poojav21/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Poojav21/Poojav21/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Poojav21/Poojav21/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/Poojav21/Poojav21/tree/master/0836-rectangle-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Poojav21/Poojav21/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method

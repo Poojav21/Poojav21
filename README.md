@@ -83,6 +83,7 @@
 | [0001-two-sum](https://github.com/Poojav21/Poojav21/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojav21/Poojav21/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Poojav21/Poojav21/tree/master/0409-longest-palindrome) |
+| [1400-construct-k-palindrome-strings](https://github.com/Poojav21/Poojav21/tree/master/1400-construct-k-palindrome-strings) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Poojav21/Poojav21/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poojav21/Poojav21/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Poojav21/Poojav21/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1400-construct-k-palindrome-strings](https://github.com/Poojav21/Poojav21/tree/master/1400-construct-k-palindrome-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojav21/Poojav21/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -132,6 +134,7 @@
 | [0410-split-array-largest-sum](https://github.com/Poojav21/Poojav21/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Poojav21/Poojav21/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Poojav21/Poojav21/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1400-construct-k-palindrome-strings](https://github.com/Poojav21/Poojav21/tree/master/1400-construct-k-palindrome-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Poojav21/Poojav21/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [1400-construct-k-palindrome-strings](https://github.com/Poojav21/Poojav21/tree/master/1400-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->

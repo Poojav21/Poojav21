@@ -43,6 +43,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Poojav21/Poojav21/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Poojav21/Poojav21/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Poojav21/Poojav21/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Poojav21/Poojav21/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Poojav21/Poojav21/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Poojav21/Poojav21/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -63,6 +64,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Poojav21/Poojav21/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Poojav21/Poojav21/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Poojav21/Poojav21/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Poojav21/Poojav21/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Poojav21/Poojav21/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Poojav21/Poojav21/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |

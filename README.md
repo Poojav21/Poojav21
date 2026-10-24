@@ -72,6 +72,7 @@
 | [0069-sqrtx](https://github.com/Poojav21/Poojav21/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Poojav21/Poojav21/tree/master/0367-valid-perfect-square) |
 | [0836-rectangle-overlap](https://github.com/Poojav21/Poojav21/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/Poojav21/Poojav21/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Poojav21/Poojav21/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Newton's Method
 |  |
@@ -102,6 +103,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Poojav21/Poojav21/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1400-construct-k-palindrome-strings](https://github.com/Poojav21/Poojav21/tree/master/1400-construct-k-palindrome-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojav21/Poojav21/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/Poojav21/Poojav21/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |

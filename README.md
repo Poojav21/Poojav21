@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poojav21/Poojav21/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Poojav21/Poojav21/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Poojav21/Poojav21/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Poojav21/Poojav21/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Poojav21/Poojav21/tree/master/0125-valid-palindrome) |
@@ -117,12 +118,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Poojav21/Poojav21/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Poojav21/Poojav21/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Poojav21/Poojav21/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Poojav21/Poojav21/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Poojav21/Poojav21/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Poojav21/Poojav21/tree/master/0410-split-array-largest-sum) |
@@ -189,4 +192,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Poojav21/Poojav21/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Poojav21/Poojav21/tree/master/0090-subsets-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Poojav21/Poojav21/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

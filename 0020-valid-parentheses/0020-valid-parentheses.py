@@ -1,13 +1,20 @@
-class Solution:
-    def isValid(self, s: str) -> bool:
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+
         st = []
-        d = {")": "(", "}":"{", "]":"["}
+        d = {")":"(", "}":"{", "]":"["}
         for i in s:
             if i in "({[":
                 st.append(i)
             else:
-                if not st  or st[-1] != d[i]:
+                while not st or st[-1] != d[i]:
                     return False
                 st.pop()
-        return len(st) == 0
-                
+            
+        while st:
+            return False
+        return True

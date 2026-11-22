@@ -111,6 +111,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Poojav21/Poojav21/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1400-construct-k-palindrome-strings](https://github.com/Poojav21/Poojav21/tree/master/1400-construct-k-palindrome-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Poojav21/Poojav21/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Poojav21/Poojav21/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Poojav21/Poojav21/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |

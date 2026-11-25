@@ -35,6 +35,7 @@
 | [0039-combination-sum](https://github.com/Poojav21/Poojav21/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Poojav21/Poojav21/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Poojav21/Poojav21/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Poojav21/Poojav21/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Poojav21/Poojav21/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Poojav21/Poojav21/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Poojav21/Poojav21/tree/master/0090-subsets-ii) |
@@ -74,6 +75,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Poojav21/Poojav21/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Poojav21/Poojav21/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Poojav21/Poojav21/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Poojav21/Poojav21/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Poojav21/Poojav21/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Poojav21/Poojav21/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
